@@ -1,5 +1,5 @@
 {
   "ABC" : {
-      "SBX" : { "auto-deploy": True, "approvers": ["abanka1"] }
+      "SBX" : { "auto-deploy": true, "approvers": ["abanka1"] }
   }
 }
